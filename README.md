@@ -170,10 +170,10 @@ various sub-teams. For more information, see [GOVERNANCE.md](./GOVERNANCE.md).
 **Siddharth Kshetrapal**
 - [SomeHats](https://github.com/SomeHats) -
 **Alex Dytrych** &lt;alex@dytry.ch&gt;
- - [srilq](https://github.com/srilq) -
- **Stef** &lt;stef@srilq.email&gt;
- - [zkat](https://github.com/zkat) -
- **Kat Marchán** &lt;kzm@sykosomatic.org&gt;
+- [srilq](https://github.com/srilq) -
+**Stef** &lt;stef@srilq.email&gt;
+- [zkat](https://github.com/zkat) -
+**Kat Marchán** &lt;kzm@sykosomatic.org&gt;
 
 [Node.js]: https://github.com/nodejs/node
 [`npm` package ecosystem]: https://www.npmjs.com

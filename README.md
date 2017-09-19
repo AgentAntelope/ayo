@@ -28,9 +28,8 @@ Contributions, policies, and releases are managed under an
 * [Building Ayo.js](#building-ayojs)
   * [Security](#security)
   * [Current Project Team Members](#current-project-team-members)
-    * [TSC (Technical Steering Committee)](#tsc-technical-steering-committee)
-    * [Collaborators](#collaborators)
-    * [Release Team](#release-team)
+    * [Core Team](#core-team)
+    * [Moderation Team](#moderation-team)
 
 ## Resources for Newcomers
 
@@ -133,10 +132,48 @@ us a report nonetheless.
 
 When in doubt, please do send us a report.
 
-
 ## Current Project Team Members
 
-_To be written_
+The Ayo.js project team is comprised of a core team, a moderation team, and
+various sub-teams. For more information, see [GOVERNANCE.md](./GOVERNANCE.md).
+
+### Core Team
+
+- [addaleax](https://github.com/addaleax) -
+**Anna Henningsen** &lt;anna@addaleax.net&gt; (she/her)
+- [aqrln](https://github.com/aqrln) -
+**Alexey Orlenko** &lt;eaglexrlnk@gmail.com&gt; (he/him)
+- [Harrison-M](https://github.com/Harrison-M) -
+**Harrison Massey** &lt;harrison.massey@gmail.com&gt;
+- [pup](https://github.com/pup) -
+**Olivia Hugger** &lt;olivia@fastmail.com&gt; (she/her)
+- [Qard](https://github.com/Qard) -
+**Stephen Belanger** &lt;admin@stephenbelanger.com&gt;
+- [sandfox](https://github.com/sandfox) -
+**James Butler** &lt;james.butler@sandfox.co.uk&gt;
+- [TimothyGu](https://github.com/TimothyGu] -
+**Timothy Gu** &lt;timothygu99@gmail.com&gt; (he/him)
+- [varjmes](https://github.com/varjmes) -
+**James Spencer** &lt;hello@jmes.tech&gt; (they/them)
+
+### Moderation Team
+
+- [AgentAntelope](https://github.com/AgentAntelope) -
+**Agent Antelope** &lt;agentantelope+github@gmail.com&gt;
+- [janl](https://github.com/janl) -
+**Jan Lehnardt** &lt;jan@apache.org&gt;
+- [NoahDragon](https://github.com/NoahDragon) -
+**Abner Chou** &lt;hi@abnerchou.me&gt;
+- [scotttrinh](https://github.com/scotttrinh) -
+**Scott Trinh** &lt;scott@scotttrinh.com&gt;
+- [siddharthkp](https://github.com/siddharthkp) -
+**Siddharth Kshetrapal**
+- [SomeHats](https://github.com/SomeHats) -
+**Alex Dytrych** &lt;alex@dytry.ch&gt;
+ - [srilq](https://github.com/srilq) -
+ **Stef** &lt;stef@srilq.email&gt;
+ - [zkat](https://github.com/zkat) -
+ **Kat Marchán** &lt;kzm@sykosomatic.org&gt;
 
 [Node.js]: https://github.com/nodejs/node
 [`npm` package ecosystem]: https://www.npmjs.com

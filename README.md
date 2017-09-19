@@ -159,7 +159,7 @@ various sub-teams. For more information, see [GOVERNANCE.md](./GOVERNANCE.md).
 ### Moderation Team
 
 - [AgentAntelope](https://github.com/AgentAntelope) -
-**Agent Antelope** &lt;agentantelope+github@gmail.com&gt;
+**Fell Sunderland** &lt;agentantelope+github@gmail.com&gt; (he/him)
 - [janl](https://github.com/janl) -
 **Jan Lehnardt** &lt;jan@apache.org&gt;
 - [NoahDragon](https://github.com/NoahDragon) -
